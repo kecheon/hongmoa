@@ -35,6 +35,7 @@ Bot is going to respond to your commands if your bot is on the channel where you
 ```
 !help
 !hi
+!memo
 ```
 
 ## Apps
